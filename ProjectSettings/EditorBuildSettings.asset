@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Viking Village/Scenes/The_Viking_Village.unity
+    guid: 217f50a4b9fbfda41b4f6faee8d22d02
+  - enabled: 0
+    path: Assets/Tests and Images/Chapter 6/Scenes/U2017GO_06_01.unity
+    guid: 71cc659a17ebad04eaa9f1901222de76
+  - enabled: 0
+    path: Assets/Tests and Images/Chapter 6/Scenes/U2017GO_06_03.unity
+    guid: 37f7f8bb3b97f51408a04e5b215b7f45
+  - enabled: 1
+    path: Assets/Tests and Images/Chapter 6/Scenes/U2017GO_06_04.unity
+    guid: 9c2ed6711d2dd4b4f933c671db14a416
