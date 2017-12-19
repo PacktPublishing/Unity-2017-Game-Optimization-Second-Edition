@@ -40,5 +40,3 @@ The majority of this book will focus on features and enhancements that apply to 
 
 * [Unity 5 AI and Physics [Video]](https://www.packtpub.com/game-development/unity-5-ai-and-physics-video?utm_source=github&utm_medium=repository&utm_campaign=9781786467294)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
